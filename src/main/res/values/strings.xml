@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotoBeacon</string>
+    <string name="button">Button</string>
+    <string name="launch">LAUNCH</string>
+</resources>
